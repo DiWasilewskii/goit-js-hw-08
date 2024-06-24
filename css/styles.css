@@ -20,9 +20,6 @@ img {
   margin: 0;
   display: block;
 }
-a {
-  cursor: url(../img/cursor.svg), auto;
-}
 
 .gallery {
   display: flex;
